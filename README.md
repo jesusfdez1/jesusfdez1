@@ -1,5 +1,5 @@
-Computer engineer interested in applied research, AI, and cybersecurity.
+Computer Engineer interested in applied research, artificial intelligence, and cybersecurity.
 
-I build systems that combine machine learning with secure software engineering. Most of my work involves taking research concepts and making them work in production environments.
+My work sits at the intersection of research and engineering, focusing on exploring new ideas and turning them into practical systems.
 
-Currently focused on cybersecurity (studying offensive security to better understand how to defend systems) and working on threat detection using ML, DL, and LLMs.
+I am interested in cybersecurity and offensive security, as well as research aimed at understanding complex systems and discovering new approaches to real-world problems.
