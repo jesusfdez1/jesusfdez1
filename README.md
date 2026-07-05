@@ -1,5 +1,2 @@
-Computer Engineer interested in applied research, artificial intelligence, and cybersecurity.
-
-My work sits at the intersection of research and engineering, focusing on exploring new ideas and turning them into practical systems.
-
-I am interested in cybersecurity and offensive security, as well as research aimed at understanding complex systems and discovering new approaches to real-world problems.
+Computer Engineer specializing in applied research, artificial intelligence, and cybersecurity. 
+I bridge the gap between theoretical concepts and practical engineering to build robust systems. My primary focus is on offensive security and leveraging AI to understand complex systems and solve real-world problems.
